@@ -1,0 +1,7 @@
+torch
+pandas
+streamlit
+# Add specific versions if known or if issues arise
+# e.g., torch==1.13.1
+#       pandas==1.5.3
+#       streamlit==1.20.0 
